@@ -1,7 +1,9 @@
 <div style="text-align: center;">
 
 Hey! Welcome! 👋
-I am **Rafael Correr**.
+I am Correr, a student of Technology in Systems Analysis and Development at UFPR. Currently, I am focusing my efforts on enhancing Front-end skills, mastering technologies such as HTML, CSS, SASS, JavaScript, TypeScript, and React.
+
+Additionally, I also learned SQLite, Python, C++/C# and prototyping with Arduino while studying Electrical Engineering.
   
 ### Contact
   [Email](mailto:rafaeç_correr@hotmail.com)  |
