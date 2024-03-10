@@ -6,9 +6,9 @@ I am Correr, a student of Technology in Systems Analysis and Development at UFPR
 Additionally, I also learned SQLite, Python, C++/C# and prototyping with Arduino while studying Electrical Engineering.
   
 ### Contact
-  [Email](mailto:rafaeç_correr@hotmail.com)  |
+  [Email](mailto:rafael_correr@hotmail.com)  |
   [Linkedin](https://www.linkedin.com/in/rafael-fernando-correr/) | 
-  [Portfolio](https://github.com/WindFox8/-Portfolio)
+  [Portfolio](https://windfox8.github.io/portfolio-v2/)
   
 ### Languages ​​and tools
 
