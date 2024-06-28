@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 <div style="text-align: center;" align="left">
 
-Hey! Welcome! 👋
+### Hey! Welcome! 👋 <br>
 Hi, I'm Correr, a student of Technology in Systems Analysis and Development at UFPR. Currently, I'm focusing my efforts on enhancing my skills as a full stack developer. On the front end, I'm studying technologies like HTML, CSS, SASS, JavaScript, TypeScript, and React, and on the back end, I'm exploring technologies such as C#, .NET, and SQL Server.
   
 ### Contact
