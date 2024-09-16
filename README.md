@@ -2,12 +2,26 @@
 <div style="text-align: center;" align="left">
 
 ### Hey! Welcome! 👋 <br>
-Hi, I'm Correr, a student of Technology in Systems Analysis and Development at UFPR. Currently, I'm focusing my efforts on enhancing my skills as a full stack developer. On the front end, I'm studying technologies like HTML, CSS, SASS, JavaScript, TypeScript, React, and Angular, and on the back end, I'm exploring technologies such as C#, .NET, and SQL Server.
+Hello, I am Correr, a student of Technology in Systems Analysis and Development at UFPR. I am currently focusing my efforts on improving my skills as a data scientist.
+
+I have experience in:
+
+Python
+Java
+Machine Learning
+Web Scraping
+Data Analysis
+Azure Cloud Services
+Data Visualization
+Exploratory Data Analysis (EDA)
+I also have experience with HTML, CSS, SASS, JavaScript, TypeScript, React, Angular, C#, .NET, and SQL Server.
+
+Don't forget to check out my GitHub:
+https://github.com/WindFox8
   
 ### Contact
   [Email](mailto:rafael_correr@hotmail.com)  |
   [Linkedin](https://www.linkedin.com/in/rafael-fernando-correr/) | 
-  [Portfolio](https://windfox8.github.io/portfolio-v2/)
   
 ### Languages ​​and tools
 
