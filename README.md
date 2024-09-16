@@ -6,9 +6,10 @@ Hello, I am Correr, a student of Technology in Systems Analysis and Development 
 
 I have experience in:
 
-- Python
 - Java
-- Machine Learning
+- Python (Pandas, Numpy, Matplotlib, Seaborn, Scikit, Selenium, Beautiful Soup)
+- PySpark
+- Machine Learning (Regressão Linear, Regressão Polinomial, KNN, Decision Tree, Regression Tree, Regressão logística, SVM)
 - Web Scraping
 - Data Analysis
 - Azure Cloud Services
@@ -25,6 +26,7 @@ I also have experience with HTML, CSS, SASS, JavaScript, TypeScript, React, Angu
 ### Languages ​​and tools
 
 ![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Scikit](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
