@@ -6,18 +6,17 @@ Hello, I am Correr, a student of Technology in Systems Analysis and Development 
 
 I have experience in:
 
-Python
-Java
-Machine Learning
-Web Scraping
-Data Analysis
-Azure Cloud Services
-Data Visualization
-Exploratory Data Analysis (EDA)
+- Python
+- Java
+- Machine Learning
+- Web Scraping
+- Data Analysis
+- Azure Cloud Services
+- Data Visualization
+- Exploratory Data Analysis (EDA)
+
 I also have experience with HTML, CSS, SASS, JavaScript, TypeScript, React, Angular, C#, .NET, and SQL Server.
 
-Don't forget to check out my GitHub:
-https://github.com/WindFox8
   
 ### Contact
   [Email](mailto:rafael_correr@hotmail.com)  |
