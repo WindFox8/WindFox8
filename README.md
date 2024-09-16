@@ -21,7 +21,7 @@ https://github.com/WindFox8
   
 ### Contact
   [Email](mailto:rafael_correr@hotmail.com)  |
-  [Linkedin](https://www.linkedin.com/in/rafael-fernando-correr/) | 
+  [Linkedin](https://www.linkedin.com/in/rafael-fernando-correr/)
   
 ### Languages ​​and tools
 
