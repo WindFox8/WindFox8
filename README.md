@@ -9,7 +9,7 @@ I have experience in:
 - Java
 - Python (Pandas, Numpy, Matplotlib, Seaborn, Scikit, Selenium, Beautiful Soup)
 - PySpark
-- Machine Learning (Regressão Linear, Regressão Polinomial, KNN, Decision Tree, Regression Tree, Regressão logística, SVM)
+- Machine Learning (Regressão Linear, Regressão Polinomial, KNN, Decision Tree, Regression Tree, Regressão logística, SVM, K-means)
 - Web Scraping
 - Data Analysis
 - Azure Cloud Services
