@@ -7,9 +7,6 @@ Hello, I am Correr, a student of Technology in Systems Analysis and Development 
 🔸Aspiring Full Stack Developer.
 
 I've been studying programming for about a year and a half, and since then, I have consistently sought to consolidate what I've learned and innovate through personal projects. So far, I've developed projects using React, Angular, Sass, Java, and C#. Currently, I'm focusing on API development in Java and mastering containers with Kubernetes, but I'm always open to new knowledge and learning opportunities.
-
-🔸Don't forget to check out my portfolio: https://windfox8.github.io/portfolio-v2/
-🔸Also, take a look at my GitHub: https://github.com/WindFox8
   
 ### Contact
   [Portfolio](https://windfox8.github.io/portfolio-v2/)  |
