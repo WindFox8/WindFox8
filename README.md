@@ -4,22 +4,15 @@
 ### Hey! Welcome! 👋 <br>
 Hello, I am Correr, a student of Technology in Systems Analysis and Development at UFPR. I am currently focusing my efforts on improving my skills as a data scientist.
 
-I have experience in:
+🔸Aspiring Full Stack Developer.
 
-- Java
-- Python (Pandas, Numpy, Matplotlib, Seaborn, Scikit, Selenium, Beautiful Soup)
-- PySpark
-- Machine Learning (Regressão Linear, Regressão Polinomial, KNN, Decision Tree, Regression Tree, Regressão logística, SVM, K-means)
-- Web Scraping
-- Data Analysis
-- Azure Cloud Services
-- Data Visualization
-- Exploratory Data Analysis (EDA)
+I've been studying programming for about a year and a half, and since then, I have consistently sought to consolidate what I've learned and innovate through personal projects. So far, I've developed projects using React, Angular, Sass, Java, and C#. Currently, I'm focusing on API development in Java and mastering containers with Kubernetes, but I'm always open to new knowledge and learning opportunities.
 
-I also have experience with HTML, CSS, SASS, JavaScript, TypeScript, React, Angular, C#, .NET, and SQL Server.
-
+🔸Don't forget to check out my portfolio: https://windfox8.github.io/portfolio-v2/
+🔸Also, take a look at my GitHub: https://github.com/WindFox8
   
 ### Contact
+  [Portfolio](https://windfox8.github.io/portfolio-v2/)  |
   [Email](mailto:rafael_correr@hotmail.com)  |
   [Linkedin](https://www.linkedin.com/in/rafael-fernando-correr/)
   
